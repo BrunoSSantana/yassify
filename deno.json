@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@luca/flag": "jsr:@luca/flag@^1.0.1",
+    "@oak/oak": "jsr:@oak/oak@^14.2.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "@brunossantana/yassify",
+  "description": "package test",
+  "version": "1.0.2",
+  "exports": "./mod.ts"
+}
